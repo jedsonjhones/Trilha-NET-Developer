@@ -119,3 +119,13 @@ With VS Code opened in the folder where you want to create the project, open a n
 
 ```dotnet new console```
 
+
+
+
+### Running the .NET project
+After creating the project, you can repeat it using the following command:
+
+
+
+
+```dotnet run```
