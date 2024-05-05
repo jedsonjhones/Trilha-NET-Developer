@@ -1,3 +1,5 @@
+# OBS a implementação do desafio se encontra na pasta. O código sem a implementação do desafio proposto se encontra no commit anterior.
+
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
