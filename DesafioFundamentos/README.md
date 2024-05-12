@@ -1,4 +1,5 @@
-# OBS a implementação do desafio se encontra na pasta. O código sem a implementação do desafio proposto se encontra no commit anterior.
+# OBS
+A implementação do desafio se encontra na pasta. O código sem a implementação do desafio proposto se encontra no commit anterior.
 
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
@@ -37,4 +38,5 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+A implementação do desafio se encontra na pasta. O código sem a implementação do desafio proposto se encontra no commit anterior.
+
