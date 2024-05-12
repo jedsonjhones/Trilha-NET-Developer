@@ -1,3 +1,5 @@
+# OBS: 
+O projeto que foi passado, sem minhas implementações, se encontra no commit anterior.
 # DIO - Trilha .NET - Explorando a linguagem C#
 www.dio.me
 
