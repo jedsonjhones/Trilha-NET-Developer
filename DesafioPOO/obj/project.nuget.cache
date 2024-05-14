@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s2Nmt3GZvOvd455Y7tEMTB9ZCpTDr0AfSAY7uFqpH3WHPDxD/0/O96T0br1Fd742zre6ZTAt4nbYFTC/F0SaMQ==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\Projs_dotnet\\Trilha-NET-Developer\\DesafioPOO\\DesafioPOO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhoni\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\jhoni\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\jhoni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\jhoni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
