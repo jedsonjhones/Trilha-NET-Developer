@@ -1,3 +1,6 @@
+# OBS
+A implementação do desafio se encontra na pasta. O código sem a implementação do desafio proposto se encontra no commit anterior.
+
 # DIO - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
