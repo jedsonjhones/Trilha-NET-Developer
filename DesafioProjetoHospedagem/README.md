@@ -1,5 +1,5 @@
 # OBS: 
-O projeto que foi passado, sem minhas implementações, se encontra no commit anterior.
+A implementação do desafio se encontra na pasta. O código sem a implementação do desafio proposto se encontra no commit anterior.
 # DIO - Trilha .NET - Explorando a linguagem C#
 www.dio.me
 
@@ -20,4 +20,4 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 ![Diagrama de classe estacionamento](diagrama_classe_hotel.png)
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+a implementação do desafio se encontra na pasta. O código sem a implementação do desafio proposto se encontra no commit anterior.
