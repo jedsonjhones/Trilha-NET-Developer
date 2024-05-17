@@ -22,4 +22,4 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 3. O método **InstalarAplicativo** deve ser sobrescrito na classe Nokia e iPhone, pois ambos possuem diferentes maneiras de instalar um aplicativo.
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+A implementação do desafio se encontra na pasta. O código sem a implementação do desafio proposto se encontra no commit anterior.
