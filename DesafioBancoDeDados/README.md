@@ -1,3 +1,6 @@
+# OBS
+A resolução feita por min se encontra acima, na pasta.
+
 # DIO - Trilha .NET - Banco de Dados
 www.dio.me
 
