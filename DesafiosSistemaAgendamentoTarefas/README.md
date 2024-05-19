@@ -1,8 +1,23 @@
 # DIO - Trilha .NET - API e Entity Framework
 www.dio.me
-
+O projeto se encontra finalizado.
 ## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
+Para roda o projeto:
+Inslate o Entity Framework:
+```dotnet tool install --global dotnet-ef```
+Crie a tabela no banco de dados:
+```dotnet-ef database update```
+Para rodar:
+```dotnet build```
+```dotnet watch run```
+
+
+OBS: Os comando abaixo são apenas para eu lembra os comando necessarios para um novo projeto, utilizar pacotes e criar gerar a migrations.
+Comandos utilizadores para criação de projeto, pacotes, Tabela no banco de dados e etc..
+```dotnet new webapi    ```
+```dotnet add package Microsoft.EntityFrameworkCore.Design```
+```dotnet add package Microsoft.EntityFrameworkCore.SqlServer```
+```dotnet-ef migrations add CriacaoTabelaTarefas```
 
 ## Contexto
 Você precisa construir um sistema gerenciador de tarefas, onde você poderá cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
@@ -55,4 +70,4 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+A solução se encontrar nesta branch
