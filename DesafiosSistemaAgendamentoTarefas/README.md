@@ -3,20 +3,32 @@ www.dio.me
 O projeto se encontra finalizado.
 ## Desafio de projeto
 Para roda o projeto:
+
 Inslate o Entity Framework:
+
 ```dotnet tool install --global dotnet-ef```
+
 Crie a tabela no banco de dados:
+
 ```dotnet-ef database update```
+
 Para rodar:
+
 ```dotnet build```
+
 ```dotnet watch run```
 
 
 OBS: Os comando abaixo são apenas para eu lembra os comando necessarios para um novo projeto, utilizar pacotes e criar gerar a migrations.
+
 Comandos utilizadores para criação de projeto, pacotes, Tabela no banco de dados e etc..
-```dotnet new webapi    ```
+
+```dotnet new webapi```
+
 ```dotnet add package Microsoft.EntityFrameworkCore.Design```
+
 ```dotnet add package Microsoft.EntityFrameworkCore.SqlServer```
+
 ```dotnet-ef migrations add CriacaoTabelaTarefas```
 
 ## Contexto
