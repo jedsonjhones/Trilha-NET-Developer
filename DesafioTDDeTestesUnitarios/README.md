@@ -2,7 +2,7 @@
 
 ## Para rodar os testes
 
- Na pasta CalculadoraTest use o comando:
+ Na pasta CalculadoraTestes use o comando:
 
 ```dotnet test```
 
